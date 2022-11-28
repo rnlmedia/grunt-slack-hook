@@ -1,7 +1,7 @@
 {
     "name": "grunt-slack-hook",
     "description": "Grunt plugin that can push messages to slack.com service using web hooks.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "homepage": "https://github.com/pwalczyszyn/grunt-slack-hook",
     "author": {
         "name": "Piotr Walczyszyn",
@@ -35,10 +35,10 @@
         "grunt-contrib-jshint": "^0.6.0",
         "grunt-contrib-clean": "^0.4.0",
         "grunt-contrib-nodeunit": "^0.2.0",
-        "grunt": "^0.4.2"
+        "grunt": "^1.5.0"
     },
     "peerDependencies": {
-        "grunt": "^0.4.2"
+        "grunt": "^1.5.0"
     },
     "keywords": [
     "slack",
